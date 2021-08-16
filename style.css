@@ -1,0 +1,106 @@
+table{
+    width: 30%;
+    border-collapse: collapse;
+}
+.wrapper{
+    background-color: orange;
+    width: 1000px;
+    height: 1000px;
+    margin: auto;
+}
+th{
+    text-align: center;
+}
+th,td{
+    padding: 40px;
+}
+td{
+    border: 1px solid black;
+    text-align: center;
+}
+.A{
+    border: none;
+    font-size: larger;
+    font-weight: bold;
+}
+th{
+    font-weight: bold;
+    font-size: larger;
+}
+.tang1 td:nth-child(2n+1) {
+    background: black;
+}
+.tang1 td:nth-child(2n) {
+    background: white;
+}
+.tang1 td:nth-child(1) {
+    background: orange;
+}
+.tang2 td:nth-child(2n) {
+    background: black;
+}
+.tang2 td:nth-child(2n+1) {
+    background: white;
+}
+.tang2 td:nth-child(1) {
+    background: orange;
+}
+.tang3 td:nth-child(2n+1) {
+    background: black;
+}
+.tang3 td:nth-child(2n) {
+    background: white;
+}
+.tang3 td:nth-child(1) {
+    background: orange;
+}
+.tang4 td:nth-child(2n) {
+    background: black;
+}
+.tang4 td:nth-child(2n+1) {
+    background: white;
+}
+.tang4 td:nth-child(1) {
+    background: orange;
+}
+.tang5 td:nth-child(2n+1) {
+    background: black;
+}
+.tang5 td:nth-child(2n) {
+    background: white;
+}
+.tang5 td:nth-child(1) {
+    background: orange;
+}
+.tang6 td:nth-child(2n) {
+    background: black;
+}
+.tang6 td:nth-child(2n+1) {
+    background: white;
+}
+.tang6 td:nth-child(1) {
+    background: orange;
+}
+.tang7 td:nth-child(2n+1) {
+    background: black;
+}
+.tang7 td:nth-child(2n) {
+    background: white;
+}
+.tang7 td:nth-child(1) {
+    background: orange;
+}
+.tang8 td:nth-child(2n) {
+    background: black;
+}
+.tang8 td:nth-child(2n+1) {
+    background: white;
+}
+.tang8 td:nth-child(1) {
+    background: orange;
+}
+th{
+    background-color: orange;
+}
+
+
